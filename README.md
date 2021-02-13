@@ -6,7 +6,7 @@ The LadyBug team (Jocelyn Hsu, Tinho Leong, and Sofia Reynoso) envisions a websi
 
 ### What we've accomplished
 - Jocelyn: Introduced Git into workflow, set up repo, developed index and internships/programs pages. First hackathon!
-- Tinho: 
+- Tinho: Implemented information and links relavant to the communities page, designed a wireframe for the site. First hackathon!
 - Sofia: Developed index and hackathon pages, designed presentation, prepared submission video. Second hackathon!
 
 ### Resources:
