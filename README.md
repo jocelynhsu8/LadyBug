@@ -13,4 +13,4 @@ The LadyBug team (Jocelyn Hsu, Tinho Leong, and Sofia Reynoso) envisions a websi
 - Website: Bootstrap Basic Lite template by Uldeck
 - Internships: Wonder Women Tech, She Tech Explorer
 - Hackathons: Hack(H)er413, TechTogether Boston, PearlHacks, AthenaHacks, Tech Lady Hackathon, ByteHacks, SisterHacks, Technica, Spectra, Superposition, ElleHacks, WiCHacks, HackXX, #CHIMEHACK
-- Communities: 
+- Communities: Women in Tech, Women in Linux, Women Tech Global Conference, The Brickyard, Womxn in STEM
